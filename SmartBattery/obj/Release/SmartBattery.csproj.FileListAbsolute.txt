@@ -1,0 +1,13 @@
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\bin\Release\FontAwesome.Sharp.dll
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\obj\Release\SmartBattery.csproj.AssemblyReference.cache
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\obj\Release\SmartBattery.BatteryViewerMini.resources
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\obj\Release\SmartBattery.Properties.Resources.resources
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\obj\Release\SmartBattery.TestWindow.resources
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\obj\Release\SmartBattery.csproj.GenerateResource.cache
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\obj\Release\SmartBattery.csproj.CoreCompileInputs.cache
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\obj\Release\SmartBattery.csproj.CopyComplete
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\bin\Release\BatteryManager.exe.config
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\bin\Release\BatteryManager.exe
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\bin\Release\BatteryManager.pdb
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\obj\Release\BatteryManager.exe
+O:\C#BOX\SmartBattery\SmartBattery\SmartBattery\obj\Release\BatteryManager.pdb
